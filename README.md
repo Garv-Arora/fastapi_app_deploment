@@ -1,4 +1,4 @@
-# Project 1: Inventory Optimizer API - Cloud + FastAPI
+# Inventory Optimizer API - Cloud + FastAPI
 
 ## 🌍 Overview
 
@@ -152,9 +152,4 @@ This project is a full-stack technical exercise wrapped into a simple business u
 - CI/CD pipelines
 - System architecture & automation
 
-> Perfect foundation for a TechOps + Industrial Engineering blend.
-
----
-
-**End of Documentation**
 
